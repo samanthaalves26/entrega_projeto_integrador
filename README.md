@@ -1,4 +1,5 @@
 # Projeto Integrador — Análise de Sentimentos
+### Grupo: Isabelli, Larissa, Samantha, Samuel Nunes
 
 ## 📂 Estrutura do Repositório
 
